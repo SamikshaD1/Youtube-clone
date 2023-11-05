@@ -42,7 +42,7 @@ const getChannelIcon = (videos) => {
     })
 }
 
-export default getChannelIcon;
+
 
 const MakeVideoCard = (data) => {
 

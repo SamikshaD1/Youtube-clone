@@ -1,7 +1,7 @@
 let apiKey = "AIzaSyDkdM3unWrxoKQqlqIn2ZfxApeE38sCRVw";
 let videos = "https://www.googleapis.com/youtube/v3/videos?";
 let channel = "https://www.googleapis.com/youtube/v3/channels?";
-import dates from "../script"
+
 
 function fetchAPI() {
   fetch(
